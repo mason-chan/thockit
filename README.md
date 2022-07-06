@@ -16,7 +16,7 @@ I created this project based on my interest in custom mechanical keyboards. At t
 
 The technologies used to make this website are React v18.1 with Typescript, Next.js 12.1.0, Tailwind CSS v3.1.2, Supabase, and Stepzen. This was my first full stack project, where I utilized Next.js and Tailwind CSS for the frontend while Supabase and Stepzen handled the backend. I also utilized some packages such as react-hook-form, react-hot-toast, and react-timeago to help with some of the functionality of the website as well as some aesthetic packages such as heroicons. 
 
-I also utilized NextAUTH to allow users to sign into the app with thier real Reddit account securely. Supabase is essentially a Firebase alternative where I have my data stored and Stepzen is used to easily generate GraphQL Schemas and APIs for my data. The core functionality of this Reddit app include creating posts (as well as new subreddits), typing comments, and upvoting/downvoting posts. The icons in the header do not work at the moment and are purely there for cosmetics.
+I also utilized NextAUTH to allow users to sign into the app with their real Reddit account securely. Supabase is essentially a Firebase alternative where I have my data stored and Stepzen is used to easily generate GraphQL Schemas and APIs for my data. The core functionality of this Reddit app include creating posts (as well as new subreddits), typing comments, and upvoting/downvoting posts. The icons in the header do not work at the moment and are purely there for cosmetics.
 
 ## Project Status
 
