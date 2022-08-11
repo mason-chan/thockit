@@ -10,7 +10,7 @@ All photos used belong to their respective owners, and were used solely for educ
 
 ## Purpose
 
-I created this project based on my interest in custom mechanical keyboards. At the beginning of my custom keyboard journey, I would often find myself on Reddit reading posts and comments to gain more knowledge regarding everything related to custom mechanical keyboards. I would often browse the r/MechanicalKeyboards subreddit or keep up to date with the latest products in r/MechGroupBuys. So I thought it would be a great project idea to recreate Reddit and its core functionality.
+I created this project following a tutorial based on my interest in custom mechanical keyboards. At the beginning of my custom keyboard journey, I would often find myself on Reddit reading posts and comments to gain more knowledge regarding everything related to custom mechanical keyboards. I would often browse the r/MechanicalKeyboards subreddit or keep up to date with the latest products in r/MechGroupBuys. So I thought it would be a great project idea to recreate Reddit and its core functionality.
 
 ## Details
 
